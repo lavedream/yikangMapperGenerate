@@ -1,0 +1,2 @@
+# yikangMapperGenerate
+entityMapper生成项目
